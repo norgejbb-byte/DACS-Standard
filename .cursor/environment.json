@@ -1,0 +1,4 @@
+{
+  "name": "DACS-Standard",
+  "install": "python3 --version"
+}
